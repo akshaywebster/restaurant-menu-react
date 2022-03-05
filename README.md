@@ -27,10 +27,10 @@ Here, in this project, if a new category is introduced in the Menu, it will auto
 
 #### React Icons
 
-[react icons](https://react-icons.github.io/react-icons/)
+[React Icons](https://react-icons.github.io/react-icons/)
 
 #### Flaticon
 
 I have used Flaticon resource as my favicon.
 
-[Link](https://www.flaticon.com/free-icons/faq)
+[Link](https://www.flaticon.com/free-icons/)
