@@ -5,7 +5,7 @@ const menu = [
     category: 'breakfast',
     price: 15.99,
     img: './images/item-1.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Our Breakfast Special - a very light & fluffy pancake with fresh buttermilk, which will give you enough energy for the entire day.`,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const menu = [
     category: 'lunch',
     price: 13.99,
     img: './images/item-2.jpeg',
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Two ¼ pound patties on a potato roll with house pickles, spinach, tomatoes, American cheese, onion, and special sauce.`,
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const menu = [
     category: 'shakes',
     price: 6.99,
     img: './images/item-3.jpeg',
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    desc: `A perfect milkshake filled with crushed oreos, doughnut & cookies, full of sweetness & love.`,
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const menu = [
     category: 'breakfast',
     price: 20.99,
     img: './images/item-4.jpeg',
-    desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+    desc: `A fulfilling breakfast option full of protein & good carbs enough to make a wholesome meal. A must try!`,
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const menu = [
     category: 'lunch',
     price: 22.99,
     img: './images/item-5.jpeg',
-    desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+    desc: `A burger filled with two slices of cheese, beef patty, a lot of egg protein and our special sauce.`,
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const menu = [
     category: 'shakes',
     price: 18.99,
     img: './images/item-6.jpeg',
-    desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+    desc: `Filled with 3 scoops cookies'n cream icecream, 1 handful crushed Oreos, 3 spoonfuls cream cheese with splash of milk.`,
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const menu = [
     category: 'breakfast',
     price: 8.99,
     img: './images/item-7.jpeg',
-    desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+    desc: `Four patties, four slices of cheese, a heaping pile of bacon and our secret sauce make it our best-selling burger.`,
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const menu = [
     category: 'lunch',
     price: 12.99,
     img: './images/item-8.jpeg',
-    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    desc: `Three beef patties, one slice of cheese, lettuce, tomato, onions with a serving of fries & onion rings - making it a perfect guilty pleasure.`,
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const menu = [
     category: 'shakes',
     price: 16.99,
     img: './images/item-9.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: `With 3 scoops strawberry ice cream, a handful of chopped pound cake, banana & splash of milk - a perfect milkshake to share with your Quarantine Buddy!`,
   },
-];
-export default menu;
+]
+export default menu
